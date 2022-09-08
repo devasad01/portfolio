@@ -1366,6 +1366,13 @@ body[style], header[style] {
 .header .navbar-brand img {
   display: none;
 }
+.header .navbar-brand img {
+  width: 80%;
+}
+.header .navbar-brand .logo-normal {
+  width: 75%;
+  margin: 10px 0;
+}
 
 .header .navbar-brand img.logo-transparent {
   display: block;
