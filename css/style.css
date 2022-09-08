@@ -6098,7 +6098,7 @@ body.rtl-mode .leave-comment-wrapper .comment-form-group textarea.form-control {
   .header, .header-shrink {
     padding: 10px 10px; 
   }
-  .header .navbar-brand img, .header .navbar-brand .logo-normal {
+  .header .navbar-brand img.logo-transparent, .header .navbar-brand .logo-normal {
     width: 60%;
   }
 
