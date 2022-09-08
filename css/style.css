@@ -6100,7 +6100,7 @@ body.rtl-mode .leave-comment-wrapper .comment-form-group textarea.form-control {
   }
   .header .navbar-brand img.logo-transparent, .header .navbar-brand .logo-normal {
     width: 60%;
+    margin: 0;
   }
-
 }
 /*# sourceMappingURL=style.css.map */
