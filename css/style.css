@@ -5246,7 +5246,7 @@ body[style], header[style] {
   width: 100%;
   height: 100%;
   content: "";
-  opacity: 0.75;
+  opacity: 1;
   z-index: -42;
   position: absolute;
   background: #171718;

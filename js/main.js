@@ -1,6 +1,6 @@
 /* -------------------------------------------------------------------
- * Theme Name            : Filaous - Portfolio Template
- * Author Name           : Yucel Yilmaz
+ * Theme Name            : Asaduzzaman - Portfolio Template
+ * Author Name           : Dev Asad
  * Created Date          : 26 December 2020
  * Version               : 1.0
  * File                  : main.js
@@ -33,7 +33,7 @@ $( document ).ready( function() {
     Filaous_MGFPopup();
     Filaous_WowJs();
     Filaous_ScrollIt();
-    Filaous_ContactForm();
+    // Filaous_ContactForm();
     Filaous_SkillsBar();
     Filaous_MyWorks();
     Filaous_BgVideo();
