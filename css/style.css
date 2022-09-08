@@ -6095,5 +6095,12 @@ body.rtl-mode .leave-comment-wrapper .comment-form-group textarea.form-control {
   .intro-hero-section .intro-hero-title span {
     font-size: 2.2rem;
   }
+  .header, .header-shrink {
+    padding: 10px 10px; 
+  }
+  .header .navbar-brand img, .header .navbar-brand .logo-normal {
+    width: 60%;
+  }
+
 }
 /*# sourceMappingURL=style.css.map */
